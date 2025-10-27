@@ -1,0 +1,6 @@
+title: VPN Compass
+description: Honest, simple guides to privacy tools.
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
